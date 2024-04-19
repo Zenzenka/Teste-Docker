@@ -1,0 +1,6 @@
+#Python
+docker pull ghcr.io/zenzenka/hello-python-ghcr:latest
+
+#Java
+docker pull ghcr.io/zenzenka/hello-java-ghcr:latest
+
